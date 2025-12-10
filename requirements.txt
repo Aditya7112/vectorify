@@ -1,1 +1,1 @@
-True
+huggingface-hub>=0.16.4True
